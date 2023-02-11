@@ -1,6 +1,6 @@
-# Hardhat-Nextjs-Starter
+# Zero Knowledge Proof (ZKP) based Decentralized Application development kit
 
-An all-in-one zk DApp starter kit for Full-stack Web3 development
+An all-in-one zk DApp starter kit for Full-stack zk Web3 development
 
 Note: Use npm as you might run into trouble with hardhat while using yarn
 
